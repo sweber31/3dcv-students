@@ -127,5 +127,5 @@ Temporary Items
 .apdisk
 
 # MNIST
-./data/mnist.tar.gz
-./data/mnist/
+data/mnist.tar.gz
+data/mnist/
